@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url("../styles/header.css");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --branco-base: #FFF;
+    --fonte-principal:  'Inter', sans-serif;
+    --cinza-texto: #667085;
+    --vermelho-principal: #8E2424;
+}
+
+body {
+    background-color: var(--branco-base);
+    font-size: 16px;
+    font-family: var(--fonte-principal);
+    font-weight: medium;
+}
