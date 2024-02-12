@@ -2,6 +2,7 @@
 @import url("../styles/header.css");
 @import url("../styles/banner.css");
 @import url("../styles/metricas.css");
+@import url("../styles/vagas.css");
 
 * {
     margin: 0;
@@ -14,6 +15,7 @@
     --cinza-texto: #667085;
     --vermelho-principal: #8E2424;
     --preto-texto: #101828;
+    --cinza-borda: #EAECF0;
 }
 
 body {
