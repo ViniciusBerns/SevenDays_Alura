@@ -57,7 +57,7 @@
     font-size: 14px;
     color: var(--vermelho-principal);
     padding: .5em;
-    background-color: rgb(142, 36, 36,.05);
+    background-color: var(--vermelho-fundo);
     border-radius: 16px;
 }
 
