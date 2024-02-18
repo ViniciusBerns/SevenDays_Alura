@@ -45,3 +45,17 @@
 .lista1 {
     padding-right: 40em;
 }
+
+.lista__cabecalho__link:hover {
+    color: var(--vermelho-principal);
+    transition: .5s;
+    font-size: 20px;
+}
+
+.cabecalho__botao:hover {
+    background-color: var(--branco-base);
+    color: var(--vermelho-principal);
+    border: 1px solid var(--vermelho-principal);
+    transition: .5s;
+    font-size: 18px;
+}
